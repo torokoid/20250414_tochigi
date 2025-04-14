@@ -162,12 +162,14 @@ p.note { display: none; }
 <h2><span class="yellow">今日のBGMは Timeless Ballads | Romantic Melody for You💖</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_A7s_Hvfjbw?si=xn_SuBeiG5Q9wSyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
+
+<!--
 <br><br>
 <h2><span class="yellow">もう一つ<br>Cat Music🐱 The Viral Cat Sound That Instantly Relaxes Your Feline | Global, Cat Therapy 再掲です</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DP3ou_KLEXc?si=bES7fqcpfwSwMR9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 
-<!--
+
 <br><br>
 <h2><span class="yellow">メタバース「cluster」内のイベントで「雪の約束」by まいてゃさん<br>ダンサーの玖遠さんがトラブってみんなでステージダンスになりました</span></h2>
   
