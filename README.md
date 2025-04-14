@@ -130,7 +130,7 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
     
-<h2><span class="yellow">宇都宮北端、そろそろ葉桜が出始めてますが、雨にも負けず満開を続けたサクラ達、最初の2枚は埼玉県飯能市<br>12日</span></h2>
+<h2><span class="yellow">宇都宮北端、そろそろ葉桜が出始めてますが、雨にも負けず満開を続けたサクラ達<br>最初の2枚は埼玉県飯能市<br>12日</span></h2>
 <a href="20250412_020.JPG" target="_blank"><img src="20250412_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250412_021.JPG" target="_blank"><img src="20250412_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250412_026.JPG" target="_blank"><img src="20250412_026.JPG" alt="サンプル画像" width="900" /></a>
