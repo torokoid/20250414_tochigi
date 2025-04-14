@@ -130,14 +130,15 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
     
-<h2><span class="yellow">宇都宮北端、そろそろ葉桜が出始めてますが、雨にも負けず満開を続けたサクラ達</span></h2>
+<h2><span class="yellow">宇都宮北端、そろそろ葉桜が出始めてますが、雨にも負けず満開を続けたサクラ達<br>12日</span></h2>
 <a href="20250412_020.JPG" target="_blank"><img src="20250412_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250412_021.JPG" target="_blank"><img src="20250412_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250412_026.JPG" target="_blank"><img src="20250412_026.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250412_027.JPG" target="_blank"><img src="20250412_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250412_028.JPG" target="_blank"><img src="20250412_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250412_029.JPG" target="_blank"><img src="20250412_029.JPG" alt="サンプル画像" width="900" /></a>
-    
+
+<h2><span class="yellow">13日</span></h2>
 <a href="20250413_001.JPG" target="_blank"><img src="20250413_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250413_002.JPG" target="_blank"><img src="20250413_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250413_003.JPG" target="_blank"><img src="20250413_003.JPG" alt="サンプル画像" width="900" /></a>
@@ -147,7 +148,8 @@ p.note { display: none; }
 <a href="20250413_007.JPG" target="_blank"><img src="20250413_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250413_008.JPG" target="_blank"><img src="20250413_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250413_009.JPG" target="_blank"><img src="20250413_009.JPG" alt="サンプル画像" width="900" /></a>
-    
+
+<h2><span class="yellow">14日</span></h2>
 <a href="20250414_001.JPG" target="_blank"><img src="20250414_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250414_002.JPG" target="_blank"><img src="20250414_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250414_003.JPG" target="_blank"><img src="20250414_003.JPG" alt="サンプル画像" width="900" /></a>
